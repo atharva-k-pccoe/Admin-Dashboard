@@ -1,0 +1,16 @@
+.sale-table-container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .search-input {
+    margin-bottom: 20px;
+  }
+  
+  .data-grid-container {
+    height: 400px;
+    width: 100%;
+  }
+  
